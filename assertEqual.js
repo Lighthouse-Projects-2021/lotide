@@ -11,7 +11,4 @@ const assertEqual = function(actual, expected) {
 assertEqual("Lighthouse Labs", "Bootcamp");
 assertEqual(1, 1);
 
-assertEqual("dice", "dice");
-assertEqual("banana", "apple");
-assertEqual(3.14, 3.14);
-assertEqual(2021, 20212);
+
