@@ -17,7 +17,7 @@ const countOnly = function (allItems, itemsToCount) {
         current_value=result[item]
       }
       result[item] = current_value + 1;
-    }
+    } 
   }
   //verificar se o item esta na minha lista de itemsToCount (if)
   // se estiver, verificar se o valor em itemstocount e true (mesmo if)
