@@ -11,9 +11,7 @@ const tail = function(arrayList) {
   return arrayList.tail;
 };
 
-const words = ["Yo Yo", "Lighthouse", "Labs"];
-tail(words); // no need to capture the return value since we are not checking it
-assertEqual(words.length, 3);
+module.exports = tail;
 
 //const result = tail(["Hello", "Lighthouse", "Labs"]);
 //assertEqual(result, ["Lighthouse", "Labs"]); // => will always fail!
