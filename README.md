@@ -26,9 +26,6 @@ This project was created and published by me as part of my learnings at Lighthou
 
 The following functions are currently implemented:
 
-* `function1(...)`: description
-* `function2(...)`: description
-* `function3(...)`: description
 * `assertArraysEqual(arr1, arr2)`: Logs a message if two arrays are equals
 * `assertEqual(actual, expected)`: Logs a message if the two passed arguments are equals
 * `assertObjectEqual(object1, object2)`: Logs a message if two passed objects are equals
