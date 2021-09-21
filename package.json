@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@keniabalestra/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "Lotide Project",
   "main": "main.js",
   "directories": {
     "test": "test"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/keniabalestra/lotide.git"
   },
-  "author": "",
+  "author": "Kenia Balestra",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/keniabalestra/lotide/issues"

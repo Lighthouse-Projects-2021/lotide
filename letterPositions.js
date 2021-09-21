@@ -23,10 +23,10 @@ const eqArrays = function(arr1, arr2) {
 
 };
 
-const letterPositions = function(sentence) {
+const letterPositions = function(text) {
   const results = {};
-  for (let i = 0; i < sentence.length; i++) {
-    let letter = sentence[i];
+  for (let i = 0; i < text.length; i++) {
+    let letter = text[i];
     if (' ' !== letter) {
 
       let newArray = [];
