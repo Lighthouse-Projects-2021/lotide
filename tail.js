@@ -1,5 +1,5 @@
 const tail = function(arrayList) {
-  return arrayList.tail;
+  return arrayList.slice(1);
 };
 
 module.exports = tail;
